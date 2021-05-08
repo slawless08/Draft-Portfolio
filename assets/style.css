@@ -183,6 +183,7 @@ nav li {
     background-image: linear-gradient(var(--clr-medium));
     z-index: 1;
     margin-top: 1em;
+    justify-content: center;
 }
 
 .home__img {
