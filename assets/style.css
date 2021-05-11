@@ -141,6 +141,8 @@ header {
     background-color: var(--clr-dark);
     margin-bottom: 1em;
 }
+@media (min-width:700px) {
+    
 
 nav {
     background: var(--clr-dark);
@@ -163,7 +165,7 @@ nav ul {
 nav li {
     padding: 1em;
 }
-
+}
 .nav__link {
     text-decoration: none;
     color: var(--clr-light);
@@ -309,7 +311,7 @@ label{
 
 input , .form textarea {
     padding: 8px;
-    width: 33%;
+    width: 30rem;
 }
 
 .form input[type="submit"]{
