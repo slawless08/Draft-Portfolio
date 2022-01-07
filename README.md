@@ -2,7 +2,7 @@
 ## Description
 The overall goal of this homework was to apply my first two weeks of learning html and css to make a functional front end draft web developer portfolio website. I reinforced many skills including: using flexbox, apply media queries, apply links for navigation within html, and much more. This is very much a draft website. It is not perfect, but it is a good start for me! 
 ## Link and screenshot
-Whttps://slawless08.github.io/homework2/
+https://slawless08.github.io/homework2/
 
 ![Screenshot of portfolio](assets/images/screenshot.PNG)
 
