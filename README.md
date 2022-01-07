@@ -4,7 +4,7 @@ The overall goal of this homework was to apply my first two weeks of learning ht
 ## Link and screenshot
 Whttps://slawless08.github.io/homework2/
 
-![screenshot](assets/images/screenshot.png)
+![Screenshot of portfolio](assets/images/screenshot.PNG)
 
 ## Items coming soon! 
 
